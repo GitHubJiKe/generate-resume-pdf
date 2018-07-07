@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <button style="float:right;" @click="exportPdf">一键导出PDF</button>
+    <button class="export-button" @click="exportPdf">一键导出PDF</button>
     <router-view/>
   </div>
 </template>
@@ -36,5 +36,18 @@ export default {
 <style>
 #app {
   padding: 0px 20px;
+}
+.export-button{
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+  outline: none;
+  padding: 5px;
+  border-radius: 3px;
+}
+.export-button:hover{
+  background-color: brown;
+  color: white;
 }
 </style>

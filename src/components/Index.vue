@@ -68,7 +68,7 @@
     <footer class="footer">
       @power by Peter Yuan<br/>
       with Vue & html2pdf.js<br>
-      项目地址：<a></a>
+      <a href="https://github.com/GitHubJiKe/generate-resume-pdf.git">项目地址</a>
     </footer>
   </div>
 </template>
@@ -105,6 +105,7 @@ export default {
   margin-right: 5px;
 }
 .footer{
+  margin-top: 100px;
   text-align: center;
   color: gray;
 }
