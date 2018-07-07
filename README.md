@@ -1,5 +1,9 @@
 # generate-resume-pdf
 
+![效果图](https://github.com/GitHubJiKe/generate-resume-pdf/blob/master/look.jpg)
+
+[预览PDF](https://github.com/GitHubJiKe/generate-resume-pdf/blob/master/resume.pdf)
+
 > 使用Vue编写可以个性化样式的简历
 
 ## html2pdf.js
