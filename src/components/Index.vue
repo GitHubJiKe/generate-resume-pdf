@@ -1,10 +1,10 @@
 <template>
   <div id="resume">
     <LevelTitle level="2" content="基本信息"/>
-    <LabelWithValue label="姓名" value="苑朋飞"/>
+    <LabelWithValue label="姓名" value="***"/>
     <LabelWithValue label="英文名" value="Peter"/>
-    <LabelWithValue label="出生年月" value="1993/02"/>
-    <LabelWithValue label="手机号" value="18518981046"/>
+    <LabelWithValue label="出生年月" value="***/**"/>
+    <LabelWithValue label="手机号" value="1851****46"/>
     <LabelWithValue label="E-Mail" value="ypf9319@gmail.com" isLink="true"/>
     <LabelWithValue label="github" value="https://github.com/GitHubJiKe" isLink="true"/>
     <LabelWithValue label="毕业院校" value="防灾科技学院"/>
